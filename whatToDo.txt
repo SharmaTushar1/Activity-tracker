@@ -1,0 +1,9 @@
+Three partitions.
+A separarte component for the activity.
+The tasks have deadline, description, complexity. Must have reporter and assignee name that are chosen from the persons array that have all people in the team. 
+We can also add persons in team. 
+Routes for todo/inprogress and copmleted. https://example.com/todo or https://example.com/inprogress etc. For this the page will be new and display there.
+Filter on the basis of complexity. Do this on the main ui itself. 
+Have a top part in every toDo, inPogress, Completed components and have a '+' icon in that (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.projectmanager.com%2Ftemplates%2Fproject-task-tracking-template&psig=AOvVaw3niT9fttUtCO-o95wsPbc0&ust=1677143471187000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDd5PaAqf0CFQAAAAAdAAAAABAD) like this image. Using this we can add a new item.
+When a toDo is in progress then shift it to inDesign and if inDesign is done then shift it to completed.
+Only have an add item in the toDo none other will have an add item

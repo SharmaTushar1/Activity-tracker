@@ -1,0 +1,12 @@
+{
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "editor.detectIndentation": false,
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx"
+    }
+}
